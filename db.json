@@ -1,0 +1,11 @@
+{
+    
+    "datapenyakit": [
+      { "id": 1, 
+        "title": "Gangguan Jiwa", 
+        "jenis": "Sangat Umum",
+        "img": "https://www.barendspsychology.com/wp-content/uploads/2018/07/Gangguan-Mental.png",
+        "desc" : "Gangguan cemas ditandai dengan kecemasan saat merespon situasi atau objek tertentu yang sulit untuk dikendalikan, sehingga menyebabkan pengidapnya merasa takut dan panik hingga jantungnya berdetak lebih cepat. Kecemasan bisa berupa gangguan panik (panic attack), fobia,  dan gangguan cemas sosial."
+        }
+    ]
+}
