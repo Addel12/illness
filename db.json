@@ -6,6 +6,13 @@
         "jenis": "Sangat Umum",
         "img": "https://www.barendspsychology.com/wp-content/uploads/2018/07/Gangguan-Mental.png",
         "desc" : "Gangguan cemas ditandai dengan kecemasan saat merespon situasi atau objek tertentu yang sulit untuk dikendalikan, sehingga menyebabkan pengidapnya merasa takut dan panik hingga jantungnya berdetak lebih cepat. Kecemasan bisa berupa gangguan panik (panic attack), fobia,  dan gangguan cemas sosial."
-        }
+        },
+      {
+        "id": 2, 
+        "title": "Gangguan Mood", 
+        "jenis": "Umum",
+        "img": "https://www.logosconsulting.co.id/media/wp-content/uploads/2023/01/Gangguan-Suasana-Hati-Mood-Disorder.jpg",
+        "desc" : "Gangguan tentang suasana hati ini bisa melibatkan perasaan dalam tempo yang sangat panjang. Perasaan yang muncul bisa terlalu sedih atau juga terlalu bahagia. Gangguan mood yang paling umum dirasakan adalah depresi, bipolar, dan siklotimik."
+      }
     ]
 }
